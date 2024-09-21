@@ -6,4 +6,8 @@
     left: 0;
     right: 0;
     height: 55px;
+    color: white;
+    display: grid;
+    align-items: center;
+    justify-content: center;
 }
