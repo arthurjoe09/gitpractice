@@ -1,0 +1,13 @@
+.sidebar
+{
+    position: fixed;
+    background-color: lightblue;
+    color: black;
+    top: 55px;
+    left: 0px;
+    bottom: 0px;
+    width: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
