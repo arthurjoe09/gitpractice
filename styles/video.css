@@ -3,4 +3,23 @@
     height: 30vh;
    width: 300px;
     background-color: yellow;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.circle
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+}
+.video :hover
+{
+    opacity: 1;
+    transition: 1.5s;
 }
